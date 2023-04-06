@@ -1,16 +1,26 @@
 # Tred
 
 This Project is made to display the skills of :
--Multi-threading
+-Multi-threading.
+
 -Thread communication.
+
 -Thread synchronization.
+
 -Implementing shared buffer between threads.
+
 -Serialization and Deserialization of data.
+
 -Advanced string manipulation.
+
 -GCC optimized compiling.
+
 -Advanced make file writing.
+
 -Programming TCP sockets.
+
 -Writing independent blocks of program.
+
 -Unexpected Crash Handling and automatic restart to the working state.
 
 
