@@ -27,6 +27,13 @@ This Project is made to display the skills of :
 # Info
 
 1.Written in Linux.
+
 2.Run the main makefile to execute all makefiles.
+
 3."make clean" & "make purge" command to clean the executables.
+
 4.No exterbal library required.
+
+## ScreenShot
+
+Result : ![alt text](https://github.com/Ashinoko/Tred/blob/main/results.png "results")
