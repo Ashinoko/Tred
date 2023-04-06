@@ -1,6 +1,7 @@
 # Tred
 
 This Project is made to display the skills of :
+
 -Multi-threading.
 
 -Thread communication.
@@ -33,6 +34,7 @@ This Project is made to display the skills of :
 3."make clean" & "make purge" command to clean the executables.
 
 4.No exterbal library required.
+
 
 ## ScreenShot
 
