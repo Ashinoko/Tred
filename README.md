@@ -20,6 +20,8 @@ This Project is made to display the skills of :
 
 -Programming TCP sockets.
 
+-SIGNAL handling in a safe way.
+
 -Writing independent blocks of program.
 
 -Unexpected Crash Handling and automatic restart to the working state.
